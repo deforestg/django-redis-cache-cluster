@@ -24,7 +24,8 @@ $ python setup.py install
 
  - Redis cluster tutorial: http://redis.io/topics/cluster-tutorial
  - Redis cluster specs: http://redis.io/topics/cluster-spec
- - 
+ 
+
 # Docker
 
 A fully functional docker image can be found at [Docker-redis-cluster](https://github.com/Grokzen/docker-redis-cluster).
